@@ -61,12 +61,6 @@ Após a conclusão do sistema de recomendação, será criado a API e a aplicaç
     <img height="200px" alt="Artefato" src="./assets/artifacts.png" />
 </p>
 
-## Progresso do Projeto
-
-* Notebook de recomendações: 100%
-* Front-end: 75%
-* Back-end: 0% (Não iniciado)
-
 ## Critérios de Avaliação
 
 - Relevância do projeto e complexidade (10%)
