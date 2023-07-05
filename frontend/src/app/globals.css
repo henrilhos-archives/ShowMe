@@ -1,0 +1,22 @@
+:root {
+  --background-rgb: 20, 20, 20;
+  --foreground-rgb: 255, 255, 255;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  user-select: none;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: rgb(var(--background-rgb));
+}
